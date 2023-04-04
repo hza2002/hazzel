@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IP2312")(type "KiCad")(uri "${KIPRJMOD}/../hazzel_symbols/IP2312.kicad_sym")(options "")(descr "IP2312 charge"))
+)
